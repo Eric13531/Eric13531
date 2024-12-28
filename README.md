@@ -1,4 +1,5 @@
-![Header Image](https://github.com/user-attachments/assets/d8fbf015-4283-4511-bbac-a0c5253a1330)
+![Header Image](https://github.com/user-attachments/assets/f4ab1c3e-4eea-46c1-b808-5916bad1be85)
+
 <h1 align="center">Hi 👋, I'm Eric ZHang</h1>
 
 <h3 align="center">A Computer Science student at UWaterloo</h3>
