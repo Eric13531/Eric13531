@@ -1,5 +1,5 @@
 ![Header Image](https://github.com/user-attachments/assets/d8fbf015-4283-4511-bbac-a0c5253a1330)
-<h1 align="center">Hi 👋, I'm Eric ZHang</h1>!
+<h1 align="center">Hi 👋, I'm Eric ZHang</h1>
 
 <h3 align="center">A Computer Science student at UWaterloo</h3>
 
