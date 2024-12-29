@@ -15,7 +15,7 @@ I'm a Computer Science student at the University of Waterloo interested in creat
 
 
 ### More about me ⚡
-🎖 I qualified for CMO in 2020, 2021, 2022
+🎖 I was a past invitee to the Canadian Mathematical Olympiad in 2020, 2021, 2022
 
 🎵 I love listening and talking about music
 
