@@ -1,5 +1,4 @@
 ![Header Image](https://github.com/user-attachments/assets/8dddfa2e-8b84-4d9d-8be7-8732f9a7b167)
-
 ## Hey 👋, I'm Eric
 
 I'm a Computer Science student at the University of Waterloo interested in creating innovative and impactful software. I have a proven track record in machine learning, full-stack development and cloud & containerization technologies.
