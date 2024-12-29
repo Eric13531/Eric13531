@@ -4,7 +4,7 @@
 
 I'm a Computer Science student at the University of Waterloo interested in creating innovative and impactful software. I have a proven track record in machine learning, full-stack development and cloud & containerization technologies.
 
-### 🛠 Technologies I've worked with
+### 🛠 My top skills
 **Languages:** Python, JavaScript, TypeScript, Go, Java, C/C++, C#, SQL, HTML, CSS
 
 **Technologies:** Django, Flask, Node.js, React.js, PostgreSQL, MySQL, MongoDB, Redis
