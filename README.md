@@ -1,10 +1,27 @@
 ![Header Image](https://github.com/user-attachments/assets/8dddfa2e-8b84-4d9d-8be7-8732f9a7b167)
 
-<h1 align="center">Hi 👋, I'm Eric Zhang</h1>
+## Hey 👋, I'm Eric
 
-<h3 align="center">A Computer Science student at UWaterloo</h3>
+I'm a Computer Science student at the University of Waterloo interested in creating innovative and impactful software. I have a proven track record in machine learning, full-stack development and cloud & containerization technologies.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ericzhang80" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ericzhang80" height="30" width="40" /></a>
-</p>
+### Technologies I've worked with 🛠
+**Languages:** Python, JavaScript, TypeScript, Go, Java, C/C++, C#, SQL, HTML, CSS
+
+**Technologies:** Django, Flask, Node.js, React.js, PostgreSQL, MySQL, MongoDB, Redis
+
+**Machine Learning:** TensorFlow, PyTorch, Scikit-learn, NumPy, Pandas
+
+**Tools:** Github, AWS, Kubernetes, Docker, Linux, Jenkins, Firebase, Heroku, Postman
+
+
+### More about me ⚡
+🎖 I qualified for CMO in 2020, 2021, 2022
+
+🎵 I love listening and talking about music
+
+🏀 I enjoy playing and watching basketball
+
+### Connect with me 📫
+
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/EricZhang80)
+[![image](https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white)](mailto:eric.zhang3@uwaterloo.ca)
